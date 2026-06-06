@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-
+//keren jir
 char nama [50];
 int umur;
 struct book{
